@@ -1,1 +1,1 @@
-This file contains the supplementary Data for paper titled "An Improved rational Bernstein–Bézier triangular patch for scattered data interpolation" based on 36, 65 and 100 data for Franke’s exponential function (F1), Saddle function (F2) and Steep function (F3)
+This file contains the supplementary data for paper titled "An Improved rational Bernstein–Bézier triangular patch for scattered data interpolation" based on 36, 65 and 100 data for Franke’s exponential function (F1), Saddle function (F2) and Steep function (F3)
